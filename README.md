@@ -5,5 +5,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=eusmemo&show_icons=true&theme=merko">
 
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusmemo&layout=compact&theme=merko">
