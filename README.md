@@ -7,7 +7,6 @@
 <div align="center"> 
   <!--📷INSTAGRAM-->
   <a href="https://www.instagram.com/gui.a.mendes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-   
   <!--💻LINKEDIN-->
   <a href="https://www.linkedin.com/in/guilherme-mendes-3a1ab6199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
