@@ -2,7 +2,7 @@
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eusmemo&show_icons=true&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eusmemo&show_icons=true&theme=merko&hide_rank=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
