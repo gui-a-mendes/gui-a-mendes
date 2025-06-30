@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=119C1C&height=120&section=header)
 
 <!-- ⌨readme-typing-svg / 🌐WEBSITE: https://github.com/DenverCoder1/readme-typing-svg-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=200&color=1FF773&multiline=true&repeat=false&random=false&width=600&height=180&lines=Hello%2C+my+name+is+Guilherme+Mendes;%F0%9F%93%8CS%C3%A3o+Jo%C3%A3o+da+Boa+Vista+-+SP%2C+Brazil;%E2%96%AA+26+years+old;%F0%9F%8E%93Computer+Engineer;%F0%9F%92%BCBusiness+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1800&pause=200&color=1FF773&multiline=true&repeat=false&random=false&width=600&height=180&lines=Hello%2C+my+name+is+Guilherme+Mendes;%F0%9F%93%8CS%C3%A3o+Jo%C3%A3o+da+Boa+Vista+-+SP%2C+Brazil;%E2%96%AA+27+years+old;%F0%9F%8E%93Computer+Engineer;%F0%9F%92%BCBusiness+Intelligence)](https://git.io/typing-svg)
 
 <div align="center"> 
   <!--📷INSTAGRAM-->
